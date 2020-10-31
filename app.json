@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "yt_5_ReviewsApp",
-    "slug": "yt_5_ReviewsApp",
+    "name": "yt_5_MovieReviewsApp",
+    "slug": "yt_5_MovieReviewsApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
